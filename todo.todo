@@ -1,0 +1,19 @@
+# Clean Up List
+☐ Light Theme
+    ☐ Delete button
+    ☐ Header responsiveness
+    ☐ spacing between buttons and chatbox
+    ☐ after clear, default height of chatbox to equal height of buttons
+    ☐ Delete should get rid of individual chatbox as well as text   
+☐ Dark Theme
+    ☐ Make the same size as light Theme
+    ☐ Make delete buttons work in dark theme
+    ☐ new messages should be in dark theme color, not light theme color
+    ☐ make large text work
+
+# ReadMe
+    ☐ Purpose - Big Touchscreen TV use only
+    ☐ UX Research
+    ☐ Future Features
+    ☐ How to Install
+
